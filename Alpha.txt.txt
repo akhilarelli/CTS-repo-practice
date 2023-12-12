@@ -1,0 +1,1 @@
+I'm new with this software and I'm finding it very hard to get in to, it's not very intuitive at all. I had used this hardware 10 years ago and now the software's changed, but mostly we coded our own test software in C#
