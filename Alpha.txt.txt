@@ -1,3 +1,6 @@
 I'm new with this software and I'm finding it very hard to get in to, it's not very intuitive at all. I had used this hardware 10 years ago and now the software's changed, but mostly we coded our own test software in C#
 
 All I want to do is read the four channels continuously, scale the measurements to meaningful units and log the data. I've enabled the digitiser channels. But under the configure channels tab when I try to add, it just says "Please configure scan channel before adding a computed channel" Where do I find the scan channels to configure them? Absolutely no hints or tips given.
+===========================================================================
+***********Added from New Branch*************
+To set up scan channels in the DAQ app for the digitiser module DAQ909A, enable the digitiser channels and navigate to the "Configure Channels" tab. However, the app will prompt you to configure the scan channel before adding a computed channel. Unfortunately, no specific instructions are provided on locating or configuring the scan channels.
