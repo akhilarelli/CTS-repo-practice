@@ -4,3 +4,4 @@ All I want to do is read the four channels continuously, scale the measurements 
 ===========================================================================
 ***********Added from New Branch*************
 To set up scan channels in the DAQ app for the digitiser module DAQ909A, enable the digitiser channels and navigate to the "Configure Channels" tab. However, the app will prompt you to configure the scan channel before adding a computed channel. Unfortunately, no specific instructions are provided on locating or configuring the scan channels.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
