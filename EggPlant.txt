@@ -4,3 +4,7 @@ code added by Branch-1
 ----------------------
 Make sure your applications, digital services, and website work across every browser, operating system, and device. Eggplant's AI-powered software test automation offers model-based testing to optimize user experience across clouds, mobile devices, and desktops — giving you a holistic look at application performance.
 ----------------------
+New code added by Branch-1
+-----------------------
+our implementation of test automation provided significant relief during the recent challenges with Covid-19. Eggplant is core to the capability, and we are excited by the use of AI within the product to optimize execution paths and hunt down defects.”
+-----------------------
