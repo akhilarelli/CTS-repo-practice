@@ -1,0 +1,1 @@
+Keysight Eggplant Test 7.0: Test automation software designed to streamline testing and reduce associated risks with manual do-it-yourself testing on any platform.
