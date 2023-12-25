@@ -4,3 +4,10 @@ code added by Branch-1
 ----------------------
 Make sure your applications, digital services, and website work across every browser, operating system, and device. Eggplant's AI-powered software test automation offers model-based testing to optimize user experience across clouds, mobile devices, and desktops — giving you a holistic look at application performance.
 ----------------------
+code added by Branch-2
+----------------------
+Forrester Names Eggplant a Leader in Continuous Automation Testing Platforms
+Among 15 providers, Keysight Eggplant achieved the highest scores possible in 12 criteria, including automation execution / continuous testing, testing journey, reporting, analytics, and quality insights, product vision, commercial model, and more.
+
+“The newly joint vision of Keysight and Eggplant will become the platform for enterprise wide automation, test, and assurance of digital systems and products.”
+----------------------
